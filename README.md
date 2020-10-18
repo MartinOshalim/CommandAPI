@@ -1,5 +1,5 @@
 # CommandAPI
-Simple .NET Core 3.1 MVC API that allows you to store,update, delete and update commands that you use day-to-day in case you forget them and need need somewhere to look them up thats not Google.
+Simple .NET Core 3.1 MVC API that allows you to store, update, delete and update commands that you use day-to-day in case you forget them and need need somewhere to look them up thats not Google.
 
 # Tech and patterns used:
 * Dependency Injection
